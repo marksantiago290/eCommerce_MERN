@@ -36,14 +36,11 @@ Fullstack Next.js E-commerce
 
 <br>
 
-## Code Example/Issues 🔍
-
-If you have any issues, please let me know in the issues section or directly to alenschmitt415@gmail.com
 
 ## Installation 💾
 
 ```bash
-git clone https://github.com/BTC415/eCommerce_MERN.git
+git clone https://github.com/marksantiago290/eCommerce_MERN.git
 ```
 
 Fill your `.env` variables:
